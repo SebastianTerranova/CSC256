@@ -1,0 +1,11 @@
+body{
+    background-color: red; /*Makes background red*/
+}
+
+h1 {
+    text-align: center; /*aligns title to center of the page*/
+}
+
+p {
+    text-align: center; /*aligns text in paragraph tags to the center of the page*/
+}
